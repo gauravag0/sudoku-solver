@@ -1,0 +1,22 @@
+table#puzzle td {
+    height: 30px;
+    width: 30px;
+    border: solid saddlebrown 3px; 
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.boxes{
+    background-color: beige;     
+}
+.boxes1{
+    background-color: white;    
+}
+button#restart {
+    padding: 8px;
+    background-color: lightslategray;
+    font-size: 20pt;
+    color: white;
+}
+
