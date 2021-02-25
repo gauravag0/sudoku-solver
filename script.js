@@ -1,5 +1,4 @@
 alert("You can make a sudoku puzzle by clicking on each cell and putting a value in it.\n\nClick on solve button for solution to puzzle.");
-alert("Thanks for trying my program.");
 
 window.onload = function() {
   puzzleTable = document.getElementById('puzzle');
