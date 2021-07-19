@@ -16,7 +16,7 @@ table#sudoku td {
    background-color: #fde8cd;
 }
 
-button#reset {
+button{
     padding: 8px;
     background-color: lightslategray;
     font-size: 20pt;
