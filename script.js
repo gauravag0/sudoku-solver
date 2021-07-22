@@ -114,7 +114,7 @@ function solveSudoku() {
   var solFound = solve(0, 0);
   if (solFound == false)
     alert(
-      "No solution to this sudoku sudoku found, you can modify or reset this sudoku"
+      "No solution to this sudoku found, you can modify or reset this sudoku"
     );
   else
     for (var i = 0; i < 9; i++)
